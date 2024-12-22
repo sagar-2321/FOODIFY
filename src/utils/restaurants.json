@@ -1,0 +1,2161 @@
+ [
+  {
+    "info": {
+      "id": "14014",
+      "name": "Burger King",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/7f76a072-c1bc-4d74-ac56-33e0eea20c1e_14014.JPG",
+      "locality": "Season Mall",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Burgers", "American"],
+      "avgRating": 4.1,
+      "parentId": "166",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "32K+",
+      "sla": {
+        "deliveryTime": 41,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/burger-king-season-mall-hadapsar-rest14014",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "296649",
+      "name": "KFC",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/e2270129-d210-4a35-b044-73ae307c5280_296649.JPG",
+      "locality": "Season Mall",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Rolls & Wraps", "Fast Food"],
+      "avgRating": 4.0,
+      "parentId": "547",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "3.7K+",
+      "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹179"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/kfc-season-mall-magarpatta-rest296649",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "4884",
+      "name": "Subway",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/3c2c022a-d0ea-4f0a-aec5-52546292aa0a_4884.JPG",
+      "locality": "Meera Nagar",
+      "areaName": "Koregaon Park",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Healthy Food", "Salads", "Snacks", "Desserts", "Beverages"],
+      "avgRating": 4.3,
+      "parentId": "2",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "23K+",
+      "sla": {
+        "deliveryTime": 41,
+        "lastMileTravel": 5.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "5.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Sandwich.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Sandwich.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/subway-meera-nagar-koregaon-park-rest4884",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "686340",
+      "name": "The Belgian Waffle Co.",
+      "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
+      "locality": "MAGARPATTA CITY",
+      "areaName": "SEASONS MALL",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Waffle", "Desserts", "Ice Cream"],
+      "avgRating": 4.5,
+      "veg": true,
+      "parentId": "2233",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "410",
+      "sla": {
+        "deliveryTime": 38,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Desserts.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Desserts.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Desserts.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/the-belgian-waffle-co-magarpatta-city-seasons-mall-rest686340",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "657730",
+      "name": "Kwality Walls Ice Cream and More",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/558ecdec-88de-4d27-94fa-dfeccd817c73_657730.JPG",
+      "locality": "KoregaonPark Annexe",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+      "avgRating": 4.7,
+      "veg": true,
+      "parentId": "582",
+      "avgRatingString": "4.7",
+      "totalRatingsString": "260",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "4.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 01:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "Ratnesh_Badges/test2.png",
+            "shortDescription": "Perfect ice cream delivery",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "Ratnesh_Badges/test2.png",
+                  "shortDescription": "Perfect ice cream delivery"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹349",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/kwality-walls-ice-cream-and-more-koregaonpark-annexe-magarpatta-rest657730",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "23711",
+      "name": "McDonald's",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/18/164e7a9b-ee37-45c0-b185-0e7c79b2bad4_23711.jpg",
+      "locality": "Season Mall",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "avgRating": 4.5,
+      "parentId": "630",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "26K+",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 1.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:20:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹199"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/mcdonalds-season-mall-magarpatta-rest23711",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "643733",
+      "name": "WeFit - Protein Bowls, Salads & Sandwiches",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/23/dbfcc93e-567e-4ea5-8162-9d510e5bf96c_643733.JPG",
+      "locality": "Magarpatta",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Healthy Food", "Salads", "Keto", "Snacks"],
+      "avgRating": 4.6,
+      "parentId": "355285",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "395",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-30 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Guiltfree.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "brand",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Guiltfree.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "brand"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹299",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/wefit-protein-bowls-salads-and-sandwiches-magarpatta-hadapsar-rest643733",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "750294",
+      "name": "Daily Kitchen - Homely Meals",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/20/d224d177-5911-4be9-b242-4c8261d0092c_750294.JPG",
+      "locality": "Soli Poonawalla Road",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Home Food", "Indian", "North Indian", "Thalis"],
+      "avgRating": 4.5,
+      "parentId": "444382",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "290",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-30 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹299",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/daily-kitchen-homely-meals-soli-poonawalla-road-hadapsar-rest750294",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "263630",
+      "name": "Pure Veg Meals by Lunchbox",
+      "cloudinaryImageId": "zuh5eq98slmttnzgbnvs",
+      "locality": "DP Road",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Biryani", "North Indian", "Desserts", "Beverages"],
+      "avgRating": 4.3,
+      "veg": true,
+      "parentId": "21938",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "332",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/pure-veg-meals-by-lunchbox-dp-road-magarpatta-rest263630",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "24421",
+      "name": "Domino's Pizza",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/461f1375-aa05-456a-8a2c-744969ff8919_24421.jpg",
+      "locality": "Baner",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Pastas",
+        "Desserts"
+      ],
+      "avgRating": 4.4,
+      "parentId": "2456",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "20K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 0.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "0.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:55:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Pizza.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Pizza.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹1199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.9",
+          "ratingCount": "3.9K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/dominos-pizza-baner-hadapsar-rest24421",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "390134",
+      "name": "NH1 Bowls - Highway To North",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/60b9921a-8ee8-42a8-af48-52f0b3795e4f_390134.JPG",
+      "locality": "Magarpatta Road",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "North Indian",
+        "Punjabi",
+        "Home Food"
+      ],
+      "avgRating": 4.6,
+      "parentId": "22452",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "692",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-30 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹299",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/nh1-bowls-highway-to-north-magarpatta-road-hadapsar-rest390134",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "500366",
+      "name": "Great Indian Khichdi by EatFit",
+      "cloudinaryImageId": "6e44fd7f1e5cd9967edfe47c10247671",
+      "locality": "Subhash Nagar",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Home Food",
+        "Indian",
+        "North Indian",
+        "Healthy Food",
+        "Snacks",
+        "Desserts",
+        "Rajasthani",
+        "South Indian",
+        "Maharashtrian",
+        "Sweets"
+      ],
+      "avgRating": 4.3,
+      "veg": true,
+      "parentId": "319582",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1.3K+",
+      "sla": {
+        "deliveryTime": 23,
+        "lastMileTravel": 2.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:45:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Khichdi.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "brand",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Khichdi.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "brand"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹89"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/great-indian-khichdi-by-eatfit-subhash-nagar-hadapsar-rest500366",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "639448",
+      "name": "Dum Safar Biryani",
+      "cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
+      "locality": "Blok East",
+      "areaName": "AMANORA TOWN CENTRE",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "Biryani",
+        "Kebabs",
+        "Tandoor",
+        "Indian",
+        "Desserts"
+      ],
+      "avgRating": 4.1,
+      "parentId": "351013",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "359",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:30:00",
+        "opened": true
+      },
+      "badges": {
+        
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/dum-safar-biryani-blok-east-amanora-town-centre-rest639448",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "29943",
+      "name": "Punjabi Grill",
+      "cloudinaryImageId": "bfh1ra3zz1fqa8rnszpl",
+      "locality": "Hadapsar",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "North Indian",
+        "Indian"
+      ],
+      "avgRating": 4.2,
+      "parentId": "2867",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "8.0K+",
+      "sla": {
+        "deliveryTime": 28,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {
+        
+      },
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.2",
+          "ratingCount": "935"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/punjabi-grill-hadapsar-rest29943",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "162204",
+      "name": "Bebe Di Rasoi - Punjabi",
+      "cloudinaryImageId": "bkixs1844t9vm8c5dh3o",
+      "locality": "Magarpatta City",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "North Indian",
+        "Punjabi",
+        "Biryani",
+        "Kebabs",
+        "Mughlai",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.2,
+      "parentId": "230548",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "24K+",
+      "sla": {
+        "deliveryTime": 17,
+        "lastMileTravel": 1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "15-20 mins",
+        "lastMileTravelString": "1.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 16:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.7",
+          "ratingCount": "214"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/bebe-di-rasoi-punjabi-magarpatta-city-hadapsar-rest162204",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "18806",
+      "name": "Faasos - Wraps, Rolls & Shawarma",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/efd8aeb2-f4eb-4bb6-8e75-6d28c0ca12a9_18806.JPG",
+      "locality": "Hadapsar",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Kebabs",
+        "Fast Food",
+        "Snacks",
+        "American",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.3,
+      "parentId": "21809",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "21K+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Rolls.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Rolls.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Rolls.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Rolls.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/faasos-wraps-rolls-and-shawarma-hadapsar-magarpatta-rest18806",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "62932",
+      "name": "LunchBox - Meals and Thalis",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/16/08f3518b-c132-480d-b861-9e45a0855160_62932.jpg",
+      "locality": "Hadapsar",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Punjabi",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.4,
+      "parentId": "4925",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "9.2K+",
+      "sla": {
+        "deliveryTime": 28,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-17 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/lunchbox-meals-and-thalis-hadapsar-magarpatta-rest62932",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "14777",
+      "name": "Pizza Hut",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/16/e0912075-d53a-47ca-ba39-28ff3b65b917_14777.jpg",
+      "locality": "Hadapsar",
+      "areaName": "Magarpatta",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Pizzas"
+      ],
+      "avgRating": 4.1,
+      "parentId": "721",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "7.2K+",
+      "sla": {
+        "deliveryTime": 26,
+        "lastMileTravel": 1.4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.4 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 05:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Pizza.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+            "description": "Delivery!"
+          },
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Pizza.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                }
+              },
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/pizza-hut-hadapsar-magarpatta-rest14777",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "391081",
+      "name": "ZAZA Mughal Biryani",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/f2c116c4-b1d0-4c5b-8959-0c7aecd49fb7_391081.jpg",
+      "locality": "Magarpatta Road",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Awadhi"
+      ],
+      "avgRating": 4.3,
+      "parentId": "22473",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "420",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-30 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Swiggy Seal Final Badge.png",
+            "description": "SEAL Badge"
+          }
+        ],
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "SEAL Badge",
+                  "imageId": "Swiggy Seal Final Badge.png"
+                }
+              }
+            ]
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹299",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/zaza-mughal-biryani-magarpatta-road-hadapsar-rest391081",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "622100",
+      "name": "MOJO Pizza - 2X Toppings",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/2d5dfc2f-3392-4f14-af5e-c944f5a640c0_622100.JPG",
+      "locality": "Magarpatta",
+      "areaName": "Hadapsar",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Pizzas",
+        "Italian",
+        "Fast Food",
+        "Desserts"
+      ],
+      "avgRating": 4.6,
+      "parentId": "11329",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "626",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-30 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-10-18 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹100 OFF",
+        "subHeader": "ABOVE ₹299",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-fa264d78-25c5-49d4-9cd4-118524f277f2"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/pune/mojo-pizza-2x-toppings-magarpatta-hadapsar-rest622100",
+      "type": "WEBLINK"
+    }
+  }
+]
